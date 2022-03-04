@@ -1,0 +1,90 @@
+
+1- théorie X 
+- L'être humain est fainiant
+- plus de contrôle, moins de motivation
+- econre plus de contrôle.
+
+2- Théorie Y
+-
+-
+-
+
+3- Le modèle Synefin 
+- complexe 
+- compliqué 
+- chaotique
+- simple
+//Sur l'informatique on est dans le modèle (complexe).
+- Darwing : les èspèces qui survient sont pas les espèces les plus 
+intéligents, ni les plus fortes, mais celles qui s'adaptent le mieux
+au changement.
+
+4- Le monde VICA
+- Un terme inventé par l'armée américaine dans les années 1990s.
+
+* L'agilité est la meilleure réponse à la complexité. Soit réduire le temps pour 
+avoir du feedback.
+
+>> Début des systèmes empiriques.
+
+** Roue de deming. Le principe de toyota et l'amélioration continue.
+** Management 3.0
+1- Managment 1.0 : aller dans la mauvaise direction.
+2- Management 2.0 : aller dans la bonne et la mauvaise direction.
+3- Management 3.0 : aller dans la bonne direction de la bonne manière.
+
+** L'entreprise libérée : c'est un terme qui a été créé par Isaac CETZ en 2009. 
+Le principe de l'entreprise libérée :
+1- Confiance
+2- Egalité 
+3- Liberté
+4- Responsabilité.
+
+1.1 - Absence de surveillance
+2.2 - Egalité intrinsèque
+3.3 - Auto-organisation
+4.4 - Engagement 
+
+
+** Sycle en cascade
+- Analyse du besion
+- spécifications
+- conception
+- codage
+- test
+- recette
+
+** Sycle en V
+
+- Plus d'agilité !!
+
+** Pourquoi l'agilité !? 
+- Le client sait ce qu'il veut 
+- L'expert métier à compris le besoin du client 
+- L'expert métier sait comment l'implémenter .
+
+** Prédictif/Empirique
+- Plan the work, work the plan.
+- Fail fast, fail save.
+
+
+
+
+** Le manifeste Agile 
+// Pour passer l'exament , il faut parler des quatre pliers ..
+1- Les interations etre les individus plus que les outils..
+2- Un logiciel opérationnel plus qu'une documetation exhaustive.
+3- La collaboration avec le client plus que la négociation contractuelle
+4- l'adaptation au changement plus que le suivi d'un plan ..
+
+** Prioriser par la valeur
+Notre plus haute priorité est de satisfaire le client en livrant rapidement et régulièrement
+des fonctionnalités à grandes valeur ajoutée.
+
+//A lire, le git scrum..
+
+*** La méthode la plus simple et la plus efficace pour transmettre de 
+l'information à l'équipe de développent et à l'intérieur de celle-ci est
+le dialogue en face à face.
+
+*** La qualité elle bouge jamais en agilité.
