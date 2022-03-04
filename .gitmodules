@@ -1,0 +1,9 @@
+[submodule "tpJson"]
+	path = tpJson
+	url = git@github.com:ibobai/tpJson.git
+[submodule "agneau"]
+	path = agneau
+	url = git@github.com:ibobai/agneau.git
+[submodule "GestionDesComptesBancaires"]
+	path = GestionDesComptesBancaires
+	url = git@github.com:ibobai/GestionDesComptesBancaires.git
